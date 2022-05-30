@@ -1,0 +1,7 @@
+L2
+9 Lior Lior 8 05412346 1 
+9 Lior Lior 8 04111111 2 
+M1
+11 Mirit Mirit 6 555555 2 
+N1
+11 Nofar Nofar 6 987987 1 
